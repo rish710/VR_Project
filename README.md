@@ -1,5 +1,3 @@
-Below is a well-structured, beautifully formatted README for your GitHub repository (https://github.com/rish710/VR_Project.git), based on the provided project report and the given project structure. The README includes a detailed project overview, installation instructions, usage details, project structure, and other relevant sections, all tailored to the Multimodal Visual Question Answering (VQA) project using the Amazon Berkeley Objects (ABO) dataset. The content is professional, clear, and visually appealing, with proper Markdown formatting for GitHub rendering.
-
 
 # Multimodal Visual Question Answering with Amazon Berkeley Objects Dataset
 
